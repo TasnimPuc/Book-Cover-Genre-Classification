@@ -65,8 +65,8 @@ Random chance with 32 classes is ~3%. Covers alone are an ambiguous signal for g
 ## Repository structure
 
 ```
-├── 2177-A_MLL_Project_Code Resnet.ipynb   # ResNet-101 training + evaluation
-├── efficient_net.ipynb                    # EfficientNet-B4 training + evaluation
+├── Code Resnet.ipynb                      # ResNet-101 training + evaluation
+├── Code Efficientnet.ipynb                 # EfficientNet-B4 training + evaluation
 ├── book32-listing_update1.csv             # Dataset metadata / labels
 ├── requirements.txt
 └── README.md
