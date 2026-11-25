@@ -1,0 +1,28 @@
+# Model weights (too large for GitHub - upload to Releases)
+*.pth
+*.pt
+*.ckpt
+*.pkl
+
+# Images / archives
+*.zip
+book_images*/
+*.jpg
+*.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local helper
+push_to_github.bat
+GITHUB_INFO.txt
