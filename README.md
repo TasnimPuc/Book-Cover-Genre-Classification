@@ -1,5 +1,7 @@
 # Book Cover Genre Classification
 
+![repo health](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/TasnimPuc/bd-rooftop-solar-calculator/main/.github/health/badge.json)
+
 Predicting a book's genre (32 classes) from its **cover image alone**, using transfer learning with **ResNet-101** and **EfficientNet-B4** (PyTorch).
 
 ## Dataset
