@@ -1,0 +1,128 @@
+{
+  "metrics": {
+    "repo": "TasnimPuc/Book-Cover-Genre-Classification",
+    "url": "https://github.com/TasnimPuc/Book-Cover-Genre-Classification",
+    "generated": "2026-11-27T11:48Z",
+    "window_days": 90,
+    "description": "Predicting book genre (32 classes) from cover images with ResNet-101 and EfficientNet-B4 transfer learning on 207K Amazon book covers (PyTorch).",
+    "topics": [
+      "book-cover",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "genre-classification",
+      "image-classification",
+      "kaggle",
+      "keras",
+      "multi-class-classification",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "transfer-learning"
+    ],
+    "archived": false,
+    "fork": false,
+    "language": "Jupyter Notebook",
+    "license": "MIT",
+    "stars": 0,
+    "forks": 0,
+    "created": "2026-11-25T06:41:25Z",
+    "pushed": "2026-11-27T11:47:59Z",
+    "days_since_push": 0.0,
+    "commits_window": 5,
+    "commits_year": 5,
+    "commits_capped": false,
+    "authors_window": 1,
+    "authors_year": 1,
+    "bus_factor": 1,
+    "top_authors": [
+      [
+        "tasnimpuc",
+        5
+      ]
+    ],
+    "community": {
+      "readme": true,
+      "license": true,
+      "contributing": false,
+      "code_of_conduct": false,
+      "issue_template": false,
+      "pull_request_template": false,
+      "security_policy": false
+    },
+    "community_health_pct": 42,
+    "dependency_bot": null,
+    "open_issues": 0,
+    "open_prs": 0,
+    "stale_issues": 0,
+    "new_issues": 0,
+    "closed_issues": 0,
+    "merged_prs": 0,
+    "median_issue_close_days": null,
+    "median_pr_merge_days": null,
+    "workflows": 1,
+    "ci_runs": 0,
+    "ci_success_rate": null,
+    "releases": 1,
+    "last_release": "2026-11-25",
+    "days_since_release": 2.21,
+    "median_release_gap_days": null,
+    "api_calls": 21
+  },
+  "health": {
+    "score": 60,
+    "grade": "C",
+    "parts": {
+      "activity": {
+        "score": 19.0,
+        "max": 25
+      },
+      "community": {
+        "score": 10.0,
+        "max": 20
+      },
+      "responsiveness": {
+        "score": 10.0,
+        "max": 20
+      },
+      "ci": {
+        "score": 9.0,
+        "max": 15
+      },
+      "releases": {
+        "score": 10.0,
+        "max": 10
+      },
+      "bus_factor": {
+        "score": 2.0,
+        "max": 10
+      }
+    },
+    "findings": [
+      {
+        "severity": "low",
+        "text": "Missing contributing."
+      },
+      {
+        "severity": "low",
+        "text": "Missing code of conduct."
+      },
+      {
+        "severity": "low",
+        "text": "Missing issue template."
+      },
+      {
+        "severity": "low",
+        "text": "Missing pull request template."
+      },
+      {
+        "severity": "low",
+        "text": "Missing security policy."
+      },
+      {
+        "severity": "low",
+        "text": "No Dependabot/Renovate config for dependency updates."
+      }
+    ]
+  }
+}
